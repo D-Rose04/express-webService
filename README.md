@@ -6,3 +6,6 @@ Example of a simple Express.js Api, allows clients to get a list of contacts fro
 
 #### POST request 
 ![Post Preview](./Post.PNG)
+
+#### Firebase collection
+![Firebase preview](./Firebase.PNG)
