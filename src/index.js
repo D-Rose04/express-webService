@@ -1,7 +1,7 @@
 const { collection, getDocs, addDoc } = require('firebase/firestore/lite');
 const express = require('express');
 const cors = require('cors');
-const db = require('../config');
+const db = require('./config');
 const app = express();
 const port = 4000;
 const contactsCollection = collection(db, 'contacts');
